@@ -60,7 +60,7 @@ The AHB master will be designed using Verilog, following the AMBAÂ® 3 AHB-Lite
 
 ## Testing 
 
-![Wave_Form_1](image/Wave_1.png)
+![Wave_Form_1](ADI_AHP_MASTER/image/Wave_1.png)
 
 *Figure 4: wave_form1*
 
